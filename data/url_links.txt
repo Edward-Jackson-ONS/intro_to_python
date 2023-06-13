@@ -1,0 +1,5 @@
+You will require 3 datasets in this session. Please download them all and save them in this 'data' folder.
+
+- https://www.ofcom.org.uk/__data/assets/file/0030/249438/202209_fixed_oa_coverage_r02.zip
+- https://www.arcgis.com/sharing/rest/content/items/efda0d0e14da4badbd8bdf8ae31d2f00/data
+- https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/censusoutputareaestimatesinthenortheastregionofengland/mid2020sape23dt10d/sape23dt10dmid2020coaunformattedsyoaestimatesnortheast.xlsx
